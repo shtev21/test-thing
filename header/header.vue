@@ -1,0 +1,1 @@
+let app = New(vue);
