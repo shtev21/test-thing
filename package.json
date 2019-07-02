@@ -1,0 +1,19 @@
+{
+  "name": "test-thing",
+  "version": "1.0.0",
+  "description": "Test thing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shtev21/test-thing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shtev21/test-thing/issues"
+  },
+  "homepage": "https://github.com/shtev21/test-thing#readme"
+}
